@@ -1,2 +1,3 @@
 # avtohall
-Учебная верстка сайта на bootstrap - avtohall
+
+Demo - https://shamilfrontend.github.io/avtohall/
